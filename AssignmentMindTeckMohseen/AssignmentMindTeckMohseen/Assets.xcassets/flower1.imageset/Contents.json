@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "lisheng-chang-tQ2bXayQp5Y-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

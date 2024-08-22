@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-fotios-photos-1921336.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

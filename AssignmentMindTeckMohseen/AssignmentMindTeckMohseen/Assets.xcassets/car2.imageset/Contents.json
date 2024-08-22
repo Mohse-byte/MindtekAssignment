@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-ashwin-tambatkar-288923201-15158345.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

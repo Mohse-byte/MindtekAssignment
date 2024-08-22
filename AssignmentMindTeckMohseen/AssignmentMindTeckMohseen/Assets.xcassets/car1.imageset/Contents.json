@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "sports-car-driving-asphalt-road-night-generative-ai.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-charles-kettor-268979-831475.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

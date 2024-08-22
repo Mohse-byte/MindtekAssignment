@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "1174968_apple_bird_code_ios_logo_icon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
